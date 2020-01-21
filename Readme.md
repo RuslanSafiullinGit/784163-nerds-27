@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Ruslan Safiullin](https://up.htmlacademy.ru/htmlcss/27/user/784163).
-* Наставник: `Неизвестно`.
+* Наставник: [Ирина Малиновская](https://htmlacademy.ru/profile/irina-malinovskaya).
 
 ---
 
